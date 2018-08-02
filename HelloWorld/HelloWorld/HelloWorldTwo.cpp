@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include <iostream>
 
 using namespace std;
@@ -9,6 +8,8 @@ int main(){
 
 	//Comment
 	std::cout << "I am a line added by Joshua at 12:46 AM to test if pushing this works!\n";
+
+	//Fuckkas
 	
 	return 0;
 }
